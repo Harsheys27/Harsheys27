@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Harshit Chaturvedi</h1>
+<h1 align="center">HEY, I'm Harshit Chaturvedi</h1>
 <h3 align="center">B.Tech CSE Student @ SRM University | AI/ML Developer | Data Science & Genomic Intelligence Enthusiast</h3>
 
-- 🔭 I’m currently working on [BioLens – Genomic Intelligence Platform](https://github.com/Harsheys27/BioLens-)
+-  I’m currently working on [BioLens – Genomic Intelligence Platform](https://github.com/Harsheys27/BioLens-)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, FastAPI, Neo4j, Data Analytics, Generative AI**
+-  I’m currently learning **Machine Learning, Deep Learning, FastAPI, Neo4j, Data Analytics, Generative AI**
 
-- 👯 I’m looking to collaborate on [AI, Healthcare AI, Genomics & Data Science Projects](https://github.com/Harsheys27)
+-  I’m looking to collaborate on [AI, Healthcare AI, Genomics & Data Science Projects](https://github.com/Harsheys27)
 
-- 🤝 I’m looking for help with [Graph Databases, Genomic Knowledge Graphs & AI Agents](https://github.com/Harsheys27)
+-  I’m looking for help with [Graph Databases, Genomic Knowledge Graphs & AI Agents](https://github.com/Harsheys27)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harsheys27](https://github.com/Harsheys27)
+-  All of my projects are available at [https://github.com/Harsheys27](https://github.com/Harsheys27)
 
-- 💬 Ask me about **Python, Machine Learning, Data Science, AI Chatbots, Flask, FastAPI, MySQL**
+-  Ask me about **Python, Machine Learning, Data Science, AI Chatbots, Flask, FastAPI, MySQL**
 
-- 📫 How to reach me **harshit.chaturvedi@live.com**
+-  How to reach me **harshit.chaturvedi@live.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ma2iQVJ9WESG1KX6jHe_DuOC_u3ajcDV/view?usp=drive_link](https://drive.google.com/file/d/1Ma2iQVJ9WESG1KX6jHe_DuOC_u3ajcDV/view?usp=drive_link)
+-  Know about my experiences [https://drive.google.com/file/d/1Ma2iQVJ9WESG1KX6jHe_DuOC_u3ajcDV/view?usp=drive_link](https://drive.google.com/file/d/1Ma2iQVJ9WESG1KX6jHe_DuOC_u3ajcDV/view?usp=drive_link)
 
-- ⚡ Fun fact **National Badminton Player who wants to build AI systems and become a Commercial Pilot**
+-  Fun fact **National Badminton Player who wants to build AI systems and become a Commercial Pilot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

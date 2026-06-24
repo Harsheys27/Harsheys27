@@ -1,112 +1,18 @@
-<h1 align="center">Hi 👋, I'm Harshit Chaturvedi</h1>
+# 💫 About Me:
+🔭 I’m currently working on BioLens – AI-Powered Genomic Intelligence Platform and Aegis AI Fleet Safety Intelligence System<br><br>👯 I’m looking to collaborate on AI/ML, Data Science, Healthcare AI, Genomics and Open Source Projects<br><br>🤝 I’m looking for help with Graph Databases, Knowledge Graphs, Genomic Data Analysis and Scalable AI Systems<br><br>🌱 I’m currently learning Machine Learning, Deep Learning, FastAPI, Neo4j, Data Analytics and Generative AI<br><br>💬 Ask me about Python, Machine Learning, Data Science, AI Chatbots, Flask, FastAPI, MySQL, React and GenAI<br><br>⚡ Fun fact: National Level Badminton Player 🏸 who wants to build impactful AI products and become a Commercial Pilot ✈️
 
-<h3 align="center">B.Tech CSE Student @ SRM University | AI/ML Developer | Data Science & Genomic Intelligence Enthusiast</h3>
 
-<p align="center">
-Building AI systems for Mobility, Energy & Genomics 🧬⚡<br>
-Smart India Hackathon Top 100 🚀<br>
-National Badminton Player 🏸 | Aspiring Commercial Pilot ✈️
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshit-chaturvedi-6907a3379/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshit.chaturvedi@live.com) 
 
----
-
-### 👨‍💻 About Me
-
-* 🎓 Pursuing B.Tech in Computer Science & Engineering at SRM University, KTR
-* 🔬 Passionate about Artificial Intelligence, Machine Learning, Data Science and Bioinformatics
-* 🧬 Currently building **BioLens**, a Genomic Intelligence Platform powered by AI and Knowledge Graphs
-* 🚗 Working on **Aegis AI Fleet**, an AI-driven vehicle risk analysis and recommendation system
-* 📊 Interested in Data Analytics, Predictive Modeling and Intelligent Decision Systems
-* 🏆 Smart India Hackathon Top 100 Finalist
-* 🏸 National Level Badminton Player
-* ✈️ Long-term goal: Become a Commercial Pilot while building impactful AI products
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=flat&logo=dgraph&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Harsheys27&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Harsheys27&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harsheys27&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Harsheys27&icon=3&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Current Projects
-
-#### 🧬 BioLens
-
-AI-powered Genomic Intelligence Platform leveraging FastAPI, React, TypeScript and Neo4j to uncover disease-gene-drug relationships.
-
-#### 🚗 Aegis AI Fleet
-
-Fleet Safety Intelligence Platform that analyzes vehicle exceptions, calculates risk scores and generates AI-powered recommendations.
-
-#### 🌍 Rewilding Impact Simulator
-
-Agent-Based Ecosystem Modeling Platform for predicting rewilding outcomes using ecological simulations and climate scenarios.
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
-<img src="https://skillicons.dev/icons?i=js" height="55"/>
-<img src="https://skillicons.dev/icons?i=ts" height="55"/>
-<img src="https://skillicons.dev/icons?i=react" height="55"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
-<img src="https://skillicons.dev/icons?i=flask" height="55"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
-<img src="https://skillicons.dev/icons?i=docker" height="55"/>
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=aws" height="55"/>
-
-</div>
-
----
-
-### 🌱 Currently Learning
-
-* Machine Learning & Deep Learning
-* Neural Networks & Generative AI
-* FastAPI & Microservices
-* Neo4j Graph Databases
-* Data Analytics & Predictive Modeling
-* Genomic Intelligence Systems
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR-GITHUB">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:harshit.chaturvedi@live.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> Most developers dream of building software that changes the world.
-> I want to do that while flying above it. ✈️
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

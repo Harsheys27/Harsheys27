@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Chaturvedi</h1>
 <h3 align="center">B.Tech CSE Student @ SRM University | AI/ML Developer | Data Science & Genomic Intelligence Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsheys27" alt="harsheys27" /></a> </p>
-
 - 🔭 I’m currently working on [BioLens – Genomic Intelligence Platform](https://github.com/Harsheys27/BioLens-)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, FastAPI, Neo4j, Data Analytics, Generative AI**

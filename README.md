@@ -31,3 +31,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsheys27&show_icons=true&locale=en&layout=compact" alt="harsheys27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsheys27&" alt="harsheys27" /></p>
+
+## 🎮 Contribution Space Shooter
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="GitHub Contribution Space Shooter" />
+</p>
